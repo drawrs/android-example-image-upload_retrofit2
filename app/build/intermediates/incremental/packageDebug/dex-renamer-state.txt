@@ -1,0 +1,7 @@
+#Sat Sep 23 12:43:33 WIB 2017
+base.0=/home/khilman/Documents/KotlinID/UploadImage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3c8bf3ebaa262442e2022ff2fe9050f12c3d7902
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/khilman/Documents/KotlinID/UploadImage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_480fb22d380358270f816fa335f1735fe4e5490a/classes.dex
+base.1=/home/khilman/Documents/KotlinID/UploadImage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_480fb22d380358270f816fa335f1735fe4e5490a
+file.0=/home/khilman/Documents/KotlinID/UploadImage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3c8bf3ebaa262442e2022ff2fe9050f12c3d7902/classes.dex

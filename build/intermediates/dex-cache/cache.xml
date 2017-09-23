@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/khilman/Documents/KotlinID/UploadImage/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="05fec8128b86bc36ec08cfc18f7658478f2a93ea">
+        <dex dex="/home/khilman/Documents/KotlinID/UploadImage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_480fb22d380358270f816fa335f1735fe4e5490a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khilman/Documents/KotlinID/UploadImage/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/khilman/Documents/KotlinID/UploadImage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3c8bf3ebaa262442e2022ff2fe9050f12c3d7902/classes.dex" />
+    </item>
+
+</items>

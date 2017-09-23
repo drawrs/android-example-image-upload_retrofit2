@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/khilman/Documents/KotlinID/UploadImage/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/khilman/Documents/KotlinID/UploadImage/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/khilman/Documents/KotlinID/UploadImage/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/khilman/Documents/KotlinID/UploadImage/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

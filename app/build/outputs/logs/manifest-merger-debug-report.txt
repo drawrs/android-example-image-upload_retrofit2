@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:7:5-64
+	android:name
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:7:22-62
+application
+ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:9:5-36:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/231402997b49bd4d082238b0a56aa1d1319e6ca2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/12ba8e73dc7c6f44add39929d46fbd10f56f4454/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/e7fe9b1749a0483c24c1d5c5eba53d56d0276b0c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/5fbe40b2f747305658c54a11e60c576efe6699d4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/21a7b1760358c7b28ec7b079c32d27e478f6cad2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/9758e501ee51bf47ac41ac026c50037f2ff564e5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/a933b07e58f7e48868a6fc6a4c516383203d3c4a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/35930fb7111d29411a6a1716d0663ff304426e53/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/7a6625ba0def62e244349aae7a15b6fc2dbe7c21/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:13:9-54
+	android:allowBackup
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:15:9-40
+provider#android.support.v4.content.FileProvider
+ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:authorities
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:18:13-60
+		INJECTED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml
+	android:grantUriPermissions
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:20:13-47
+	android:exported
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:17:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:21:13-23:57
+	android:resource
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:23:17-55
+	android:name
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:22:17-67
+activity#com.khilman.uploadimage.MainActivity
+ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:25:9-34:20
+	android:name
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:25:19-47
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:26:13-28:49
+	android:value
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:28:17-46
+	android:name
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:27:17-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:32:27-74
+activity#com.khilman.uploadimage.UploadActivity
+ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:35:9-61
+	android:name
+		ADDED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml:35:19-49
+uses-sdk
+INJECTED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/231402997b49bd4d082238b0a56aa1d1319e6ca2/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/12ba8e73dc7c6f44add39929d46fbd10f56f4454/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/e7fe9b1749a0483c24c1d5c5eba53d56d0276b0c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/5fbe40b2f747305658c54a11e60c576efe6699d4/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/21a7b1760358c7b28ec7b079c32d27e478f6cad2/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/9758e501ee51bf47ac41ac026c50037f2ff564e5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/a933b07e58f7e48868a6fc6a4c516383203d3c4a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/35930fb7111d29411a6a1716d0663ff304426e53/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /root/.android/build-cache/5070b831c6b3ceaa3f3984babdc239a23a1148a2/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/7a6625ba0def62e244349aae7a15b6fc2dbe7c21/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/khilman/Documents/KotlinID/UploadImage/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/231402997b49bd4d082238b0a56aa1d1319e6ca2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/12ba8e73dc7c6f44add39929d46fbd10f56f4454/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/e7fe9b1749a0483c24c1d5c5eba53d56d0276b0c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/5fbe40b2f747305658c54a11e60c576efe6699d4/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/21a7b1760358c7b28ec7b079c32d27e478f6cad2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/9758e501ee51bf47ac41ac026c50037f2ff564e5/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/a933b07e58f7e48868a6fc6a4c516383203d3c4a/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/7a6625ba0def62e244349aae7a15b6fc2dbe7c21/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/AndroidManifest.xml:26:9-47
